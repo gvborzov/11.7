@@ -1,0 +1,18 @@
+table td, table th {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #050505;
+    font-size: 14px;
+}
+table th {
+    font-weight: bolder;
+    background-color: #c7c2c2;
+    padding: 15px 20px;
+    text-align: center;
+}
+table {
+    width: 50%;
+    margin: 20px 0;
+    border-collapse: collapse;
+    font-size: 16px;
+}
